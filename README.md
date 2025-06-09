@@ -59,7 +59,7 @@ DISEASE-PREDICTION-ML/
 ### 1️⃣ Clone / Download Project
 
 ```bash
-git clone https://github.com/yourusername/disease-prediction-ml.git
+git clone https://github.com/HARIHARANS24/disease-prediction-ml.git
 cd disease-prediction-ml
 ```
 
@@ -176,9 +176,9 @@ python src/predict.py
 
 ## Author & Contribution
 
-- **Author:** Your Name  
-- **Email:** your.email@example.com  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Author:** HARIHARAN S  
+- **Email:** hariharan24hs@gmail.com  
+- **GitHub:** [github.com/yourusername](https://github.com/HARIHARANS24)
 
 Contributions are welcome!  
 Feel free to fork the repository, create branches, and submit pull requests.  
