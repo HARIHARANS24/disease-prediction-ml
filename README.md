@@ -178,7 +178,7 @@ python src/predict.py
 
 - **Author:** HARIHARAN S  
 - **Email:** hariharan24hs@gmail.com  
-- **GitHub:** [github.com/yourusername](https://github.com/HARIHARANS24)
+- **GitHub:** [github.com/HARIHARANS24](https://github.com/HARIHARANS24)
 
 Contributions are welcome!  
 Feel free to fork the repository, create branches, and submit pull requests.  
