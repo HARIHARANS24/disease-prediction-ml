@@ -13,7 +13,7 @@ DISEASE-PREDICTION-ML/
 ├── .venv/ # Virtual environment 
 ├── data/ # Raw and cleaned datasets
 │ ├── clean disease dataset.csv
-│ └── improved_disease_dataset.csv
+│ └── improved_disease_dataset.csv 
 ├── models/ # Saved ML models and encoder
 │ ├── label_encoder.pkl
 │ ├── Igbm_model.pkl
